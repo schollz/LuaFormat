@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 # FORKED FROM https://github.com/floydawong/LuaFormat
 # Copyright (c) 2017 Floyda (floyda@163.com)
